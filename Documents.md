@@ -64,7 +64,7 @@ https://www.docker.com/blog/docker-for-node-js-developers-5-things-you-need-to-k
 
 ## Best docs
 
-[] **10 best practices to containerize Node.js web applications with Docker**
+[X] **10 best practices to containerize Node.js web applications with Docker**
 ```
 https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/
 ```
@@ -73,7 +73,7 @@ https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-w
 ```
 https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md
 ```
-[] **Chris Richardson's Microservice Book**
+[Doing] **Chris Richardson's Microservice Book**
 
 ## Other:
 
