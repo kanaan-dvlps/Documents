@@ -4,7 +4,7 @@
 https://snyk.io/blog/
 ```
 
-[] **Docker for Node.js developers: 5 things you need to know not to fail your security**
+[ ] **Docker for Node.js developers: 5 things you need to know not to fail your security**
 ```
 https://snyk.io/blog/docker-for-node-js-developers-5-things-you-need-to-know/
 ```
