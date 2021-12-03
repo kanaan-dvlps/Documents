@@ -65,6 +65,7 @@ https://www.docker.com/blog/docker-for-node-js-developers-5-things-you-need-to-k
 ## Best docs
 
 [X] **10 best practices to containerize Node.js web applications with Docker**
+[] **Craig Larman’s book Applying UML and Patterns (Prentice Hall, 2004)**
 ```
 https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/
 ```
