@@ -76,6 +76,8 @@ https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md
 ```
 [Doing] **Chris Richardson's Microservice Book**
 
+[] Enterprise Integration Patterns
+(Addison-Wesley Professional, 2003) by Gregor Hohpe and Bobby Woolf
 ## Other:
 
 [] **Container Security For Development Teams**
