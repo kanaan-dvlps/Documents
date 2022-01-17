@@ -80,6 +80,9 @@ https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md
 (Addison-Wesley Professional, 2003) by Gregor Hohpe and Bobby Woolf
 
 [] Patterns of Enterprise Application Architecture by Martin Fowler (Addison-Wesley Professional, 2002)
+
+[] Domain-Driven Design by Eric Evans (Addison-
+Wesley Professional, 2003)
 ## Other:
 
 [] **Container Security For Development Teams**
